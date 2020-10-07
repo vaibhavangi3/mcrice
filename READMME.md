@@ -1,0 +1,1 @@
+This file contains the code that accepts an integer array of variable length as input and returns the same array in an ascending sorted form
